@@ -18,13 +18,13 @@ This project's overall objective is the prediction of dominant land use from Zen
 ## File Directory
 ### For Dataset
 ```bash
-AAI3001_SmallProj
+AAI3001-EuroSAT-SmallProject
 ├── EuroSAT_RGB
 ```
 
 ### Full Directory
 ```bash
-AAI3001_SmallProj
+AAI3001-EuroSAT-SmallProject
 ├── EuroSAT_RGB
 │   ├── AnnualCrop
 │   ├── Forest
@@ -67,7 +67,7 @@ AAI3001_SmallProj
 
 
 ## Code Execution
-- To execute the Python scripts for the respective tasks, simply open your command prompt or terminal, navigate to the "<b>AAI3001_SmallProj</b>" directory and run the following commands:
+- To execute the Python scripts for the respective tasks, simply open your command prompt or terminal, navigate to the "<b>AAI3001-EuroSAT-SmallProject</b>" directory and run the following commands:
     - <code>python task1train.py</code> to train the Task 1 model.
     - <code>python task1validate.py</code> to validate the Task 1 model.
     - <code>python task2train.py</code> to train the Task 2 model.
